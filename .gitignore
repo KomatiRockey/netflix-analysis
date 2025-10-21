@@ -1,0 +1,18 @@
+
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+env/
+.idea/
+.vscode/
+
+# Data and secrets (you may want to track data; currently data/ is included)
+*.sqlite
+*.db
+*.sql
+*.env
